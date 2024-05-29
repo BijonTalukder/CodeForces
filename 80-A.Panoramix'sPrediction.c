@@ -35,6 +35,6 @@ int main() {
         }
     }
 
-    printf("NO\n"); // If the loop completes without finding m as a prime
+    printf("NO\n"); 
     return 0;
 }
