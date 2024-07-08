@@ -1,1 +1,2 @@
-fact 24
+0 th position -> 89
+1 th position -> 88
