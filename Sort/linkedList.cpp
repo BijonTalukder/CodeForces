@@ -149,6 +149,26 @@ public:
         a->nxt = newNode;
 
     }
+
+void ReversePrint(node *a)
+{
+
+    if(a==NULL)
+{
+    return;
+}
+ReversePrint(a->nxt);
+cout<<a->data<<"  ";
+    
+}
+
+
+
+
+
+
+
+
 };
 int main()
 {
