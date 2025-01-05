@@ -1,5 +1,8 @@
 {
     "files.associations": {
-        "stdio.h": "c"
+        "*.ndjson": "jsonl",
+        "*.dbclient-js": "javascript",
+        "stdio.h": "c",
+        "iostream": "cpp"
     }
 }
