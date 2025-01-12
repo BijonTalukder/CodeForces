@@ -23,7 +23,6 @@ int main() {
             mini = j;
         }
     }
-// printf("%d %d",mini,maxi);
   
     if(mini>maxi)
     printf("%d\n",  maxi + (n - 1 - mini));   
