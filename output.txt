@@ -1,1 +1,5 @@
-5 36 27 1
+Queue is created
+6422352 4201387 5
+Queue is full
+1 1 1 1 1 dequeueing 1
+1 sdf6 
